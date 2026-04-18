@@ -4,12 +4,10 @@
 ## 📌 Objective
 To build a complete machine learning pipeline that integrates preprocessing and model training, ensuring a clean, efficient, and deployment-ready workflow.
 
----
 ## Dataset
 * Breast Cancer Dataset (sklearn)
 * Features: 30
 * Target: Binary classification (Malignant / Benign)
----
 
 ## 🛠️ Tools Used
 * Python
@@ -18,7 +16,6 @@ To build a complete machine learning pipeline that integrates preprocessing and 
 * Pandas
 * Matplotlib
   
----
 ## Steps Performed
 
 1. Loaded dataset from sklearn
@@ -32,7 +29,6 @@ To build a complete machine learning pipeline that integrates preprocessing and 
 7. Visualized results (Confusion Matrix, ROC Curve)
 8. Saved trained pipeline
 
----
 ## 📊 Evaluation Metrics
 
 | Metric    | Value |
@@ -42,7 +38,6 @@ To build a complete machine learning pipeline that integrates preprocessing and 
 | Recall    | ~97%  |
 | F1 Score  | ~97%  |
 
----
 ## Saved Model
 * File: `ml_pipeline_model.pkl`
   
